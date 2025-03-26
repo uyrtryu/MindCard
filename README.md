@@ -6,12 +6,12 @@
 ## Команда 
 - [Степаненко Артур](https://github.com/uyrtryu "") - Team Lead, Project Manager, аналитик;
 - [Гамидов Антон ]("") - Frontend разработчик;
-- [Добросоцкий Михаил ](https://github.com/Hik4n "") - Backend разработчик.
-- [Растрепин Вадим ]("") - QA.
+- [Добросоцкий Михаил ](https://github.com/Hik4n "") - Backend разработчик;
+- [Растрепин Вадим ]("") - QA;
 - [Чурсина Анна ]("") - Дизайнер.
 
 ## Сервисы командной разработки
-+ [Figma]()
++ [Figma](https://www.figma.com/design/LwB0QJmF4J4cmRZOH3YpcC/LingCards%3A-UI-Kit-%26-Brandbook?node-id=15-4&t=xICaTMjaM8Mt1QSE-1)
 + [Jira - доска задач]() 
 + [Miro (Диаграммы и roadmap см. здесь)](https://miro.com/app/board/uXjVIOZVmws=/?share_link_id=181565259210)
 
