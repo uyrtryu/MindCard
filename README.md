@@ -13,7 +13,7 @@
 ## Сервисы командной разработки
 + [Figma](https://www.figma.com/design/LwB0QJmF4J4cmRZOH3YpcC/LingCards%3A-UI-Kit-%26-Brandbook?node-id=15-4&t=xICaTMjaM8Mt1QSE-1)
 + [Jira - доска задач](https://arturioctepanenkooo.atlassian.net/jira/software/projects/SV2/boards/2?atlOrigin=eyJpIjoiYjE4YmE5MGQzMTliNGJhNjg1Y2U0NzY2M2U1MmMxYmEiLCJwIjoiaiJ9) 
-+ [Miro (Диаграммы, roadmap, предпроектное исследование, SWOT, финансовую модель и тп. см. здесь)](https://miro.com/app/board/uXjVIOZVmws=/?share_link_id=181565259210)
++ [Miro (Диаграммы, roadmap, предпроектное исследование, SWOT, финансовая модель и тп. см. здесь)](https://miro.com/app/board/uXjVIOZVmws=/?share_link_id=181565259210)
 
 ## Документация проекта
 + [Техническое задание](Documentation/Техническое_задание.docx) [(PDF)](Documentation/Техническое_задание.pdf)
@@ -30,8 +30,8 @@
 
 ## Проверки работ
 [Чеклист](Documentation/checklist1atta.pdf)
-кто проверял нас?
-[2.2]()
-[3.1]()
-[3.2](https://github.com/dnlksnvv/Trainova/blob/main/docs/оценивание.pdf)
-[10.3](https://github.com/git-company-tp10-1/main/blob/main/Documentation/Чеклист%201%20этап.pdf)
+# кто проверял нас?
++ [2.2]()
++ [3.1]()
++ [3.2](https://github.com/dnlksnvv/Trainova/blob/main/docs/оценивание.pdf)
++ [10.3](https://github.com/git-company-tp10-1/main/blob/main/Documentation/Чеклист%201%20этап.pdf)
