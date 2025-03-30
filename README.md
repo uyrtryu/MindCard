@@ -16,10 +16,10 @@
 + [Miro (Диаграммы, roadmap, предпроектное исследование, SWOT, финансовую модель и тп. см. здесь)](https://miro.com/app/board/uXjVIOZVmws=/?share_link_id=181565259210)
 
 ## Документация проекта
-+ Техническое задание [(DOCX)](Documentation/Техническое_задание.docx) [(PDF)](Documentation/Техническое_задание.pdf)
++ [Техническое задание](Documentation/Техническое_задание.docx) [(PDF)](Documentation/Техническое_задание.pdf)
 + [API](https://app.swaggerhub.com/apis/vsu-1a2/MindCard/1.0.0)
-+ SAM_SOM [(DOCX)](Documentation/SAM_SOM.docx) [(PDF)](Documentation/SAM_SOM.pdf)
-+ Правила коммитов [(DOCX)](Documentation/Правила_коммитов.docx) [(PDF)](Documentation/Правила_коммитов.pdf)
++ [SAM_SOM](Documentation/SAM_SOM.docx) [(PDF)](Documentation/SAM_SOM.pdf)
++ [Правила коммитов](Documentation/Правила_коммитов.docx) [(PDF)](Documentation/Правила_коммитов.pdf)
 + [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)
 
 ## Презентация проекта
@@ -27,3 +27,11 @@
 
 ## Видео по проекту
 + [Видео](https://rutube.ru/video/0210f8b28d43d166250a7e49fbbb739a/?r=wd)
+
+## Проверки работ
+[Чеклист](Documentation/checklist1atta.pdf)
+кто проверял нас?
+[2.2]()
+[3.1]()
+[3.2](https://github.com/dnlksnvv/Trainova/blob/main/docs/оценивание.pdf)
+[10.3](https://github.com/git-company-tp10-1/main/blob/main/Documentation/Чеклист%201%20этап.pdf)
