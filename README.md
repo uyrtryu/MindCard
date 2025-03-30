@@ -31,7 +31,7 @@
 ## Проверки работ
 [Чеклист](Documentation/checklist1atta.pdf)
 ### Кто проверял нас?
-+ [2.2]()
-+ [3.1]()
++ [2.2](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Кросс-ревью%20(1%20аттестация).pdf)
++ [3.1](https://github.com/Shao-Lin/Music-dating/blob/main/documentation/ВГУ-ТП.%20Чеклист%201%20этап%203.1%20команда.pdf)
 + [3.2](https://github.com/dnlksnvv/Trainova/blob/main/docs/оценивание.pdf)
 + [10.3](https://github.com/git-company-tp10-1/main/blob/main/Documentation/Чеклист%201%20этап.pdf)
