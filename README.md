@@ -30,7 +30,7 @@
 
 ## Проверки работ
 [Чеклист](Documentation/checklist1atta.pdf)
-# кто проверял нас?
+### Кто проверял нас?
 + [2.2]()
 + [3.1]()
 + [3.2](https://github.com/dnlksnvv/Trainova/blob/main/docs/оценивание.pdf)
