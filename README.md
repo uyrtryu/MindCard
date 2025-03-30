@@ -23,7 +23,7 @@
 + [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)
 
 ## Презентация проекта
-+ [Презентация ТЗ](Documentation/MindCard.pptx)
++ [Презентация ТЗ](Documentation/MindCard.pdf)
 
 ## Видео по проекту
 + [Видео](https://rutube.ru/video/0210f8b28d43d166250a7e49fbbb739a/?r=wd)
