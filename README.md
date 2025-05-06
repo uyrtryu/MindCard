@@ -24,9 +24,11 @@
 
 ## Презентация проекта
 + [Презентация ТЗ](Documentation/MindCard.pdf)
++ [Презентация ТЗ 2](Documentation/MindCard2.pdf)
 
 ## Видео по проекту
 + [Видео](https://rutube.ru/video/0210f8b28d43d166250a7e49fbbb739a/?r=wd)
++ [Видео 2](https://rutube.ru/video/6723d9d0f8c9d5f6e3ccab89dcf6e6f8/)
 
 ## Проверки работ
 [Чеклист](Documentation/checklist1atta.pdf)
