@@ -30,10 +30,13 @@
 + [Видео](https://rutube.ru/video/0210f8b28d43d166250a7e49fbbb739a/?r=wd)
 + [Видео 2](https://rutube.ru/video/6723d9d0f8c9d5f6e3ccab89dcf6e6f8/)
 
-## Проверки работ
+## Проверки работ 1 этап
 [Чеклист](Documentation/checklist1atta.pdf)
 ### Кто проверял нас?
 + [2.2](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Кросс-ревью%20(1%20аттестация).pdf)
 + [3.1](https://github.com/Shao-Lin/Music-dating/blob/main/documentation/ВГУ-ТП.%20Чеклист%201%20этап%203.1%20команда.pdf)
 + [3.2](https://github.com/dnlksnvv/Trainova/blob/main/docs/оценивание.pdf)
 + [10.3](https://github.com/git-company-tp10-1/main/blob/main/Documentation/Чеклист%201%20этап.pdf)
+
+## Проверки работ 2 этап
+[Чеклист 2](Documentation/checklist2atta.pdf)
