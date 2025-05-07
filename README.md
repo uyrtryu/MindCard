@@ -40,3 +40,7 @@
 
 ## Проверки работ 2 этап
 [Чеклист 2](Documentation/checklist2atta.pdf)
+### Кто проверял нас?
++ [3.1]()
++ [3.2](https://github.com/dnlksnvv/Trainova/blob/develop/docs/оценивание2атта.pdf)
++ [10.3]([https://github.com/git-company-tp10-1/main/blob/main/Documentation/Чеклист%201%20этап.pdf](https://github.com/git-company-tp10-1/main/blob/main/Documentation/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf))
